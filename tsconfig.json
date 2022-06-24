@@ -13,8 +13,8 @@
     "downlevelIteration": true,
     "paths": {
       "my-lib": [
-        "dist/my-lib/my-lib",
-        "dist/my-lib"
+        "projects/dist/my-lib/my-lib",
+        "projects/dist/my-lib"
       ]
     },
     "experimentalDecorators": true,

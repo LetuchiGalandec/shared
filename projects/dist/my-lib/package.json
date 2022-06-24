@@ -1,0 +1,19 @@
+{
+  "name": "test-6-14-2022",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/test-6-14-2022.umd.js",
+  "module": "fesm2015/test-6-14-2022.js",
+  "es2015": "fesm2015/test-6-14-2022.js",
+  "esm2015": "esm2015/test-6-14-2022.js",
+  "fesm2015": "fesm2015/test-6-14-2022.js",
+  "typings": "test-6-14-2022.d.ts",
+  "metadata": "test-6-14-2022.metadata.json",
+  "sideEffects": false
+}
